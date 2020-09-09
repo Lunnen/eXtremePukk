@@ -1,9 +1,14 @@
 
 Short:        An Air Hockey game with network support
+
 Authors:      Andreas Hansson , Andreas Lönnholm , Tommi Toivanen, Karl Wallenius.
+
 Type:         game/action
+
 Version:      1.0.
+
 Requires:     Java or Processing (www.processing.org).
+
 Architecture: x86/PPC
 
 
@@ -28,12 +33,11 @@ Should be quite self-evident.
 For controlling the ball:
  UpKeyHost='w'; DownKeyHost='s'; LeftKeyHost='a'; RightKeyHost='d';
  UpKeyClient='u'; DownKeyClient='j'; LeftKeyClient='h'; RightKeyClient='k';
-
+ 
 The IP-adresses needs to be set in the code for now.
 
 
 CREDs:
-
 Martin Nilsson for the project tutoring.
 Jesper "Joppe" Wilhelmsson for tips and hints how to bypass programming problems.
 
