@@ -7,7 +7,7 @@ Type:         game/action\
 \
 Version:      1.0.\
 \
-Requires:     Java or Processing (www.processing.org).\
+Requires:     Java or Processing (www.processing.org).
 \
 Architecture: x86/PPC\
 \
@@ -42,9 +42,9 @@ Jesper "Joppe" Wilhelmsson for tips and hints how to bypass programming problems
 
 
 CONTACT: \
-For feedback and other questions: \
-* tomazkid [at] yahoo.com \
-* lunnen [at] live.se \
+For feedback and other questions:
+* tomazkid [at] yahoo.com
+* lunnen [at] live.se
 
 
 
